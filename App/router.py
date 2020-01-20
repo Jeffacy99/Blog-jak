@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# ********************************************************************************
-# Copyright © 2019 jianglin
-# File Name: router.py
-# Author: jianglin
-# Email: mail@honmaple.com
-# Created: 2019-05-24 22:46:38 (CST)
-# Last Update: Wednesday 2019-09-11 12:16:35 (CST)
-#          By:
-# Description:
-# ********************************************************************************
 from flask import redirect, request
 from flask_babel import gettext as _
 from flask_maple.response import HTTP
