@@ -1,4 +1,4 @@
-# Pitching App
+# BLOG-APP
 
 ## By Japheth Mwania
 
