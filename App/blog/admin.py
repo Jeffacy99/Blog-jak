@@ -1,15 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# **************************************************************************
-# Copyright © 2016 jianglin
-# File Name: admin.py
-# Author: jianglin
-# Email: mail@honmaple.com
-# Created: 2016-11-26 16:07:56 (CST)
-# Last Update: Thursday 2019-07-11 18:13:01 (CST)
-#          By:
-# Description:
-# **************************************************************************
+
 from flask import Markup, url_for
 from maple.admin import AdminView
 from maple.extension import db
