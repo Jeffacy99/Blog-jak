@@ -1,15 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# ********************************************************************************
-# Copyright © 2018 jianglin
-# File Name: utils.py
-# Author: jianglin
-# Email: mail@honmaple.com
-# Created: 2018-02-08 15:04:16 (CST)
-# Last Update: Monday 2019-09-23 16:57:49 (CST)
-#          By:
-# Description:
-# ********************************************************************************
+
 import hashlib
 from datetime import datetime
 from functools import wraps
