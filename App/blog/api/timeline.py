@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# ********************************************************************************
-# Copyright © 2019 jianglin
-# File Name: timeline.py
-# Author: jianglin
-# Email: mail@honmaple.com
-# Created: 2019-05-24 22:49:44 (CST)
-# Last Update: Friday 2019-05-24 22:56:43 (CST)
-#          By:
-# Description:
-# ********************************************************************************
 from flask_maple.response import HTTP
 from flask_maple.serializer import Serializer
 from flask_maple.views import MethodView
