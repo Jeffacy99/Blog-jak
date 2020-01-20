@@ -1,15 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# ********************************************************************************
-# Copyright © 2018 jianglin
-# File Name: jinja.py
-# Author: jianglin
-# Email: mail@honmaple.com
-# Created: 2018-02-08 15:25:56 (CST)
-# Last Update: Monday 2019-06-10 01:00:04 (CST)
-#          By:
-# Description:
-# ********************************************************************************
+
 from flask_babel import format_datetime
 from flask_babel import lazy_gettext as _
 from datetime import datetime

@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# ********************************************************************************
-# Copyright © 2019 jianglin
-# File Name: assertion.py
-# Author: jianglin
-# Email: mail@honmaple.com
-# Created: 2019-07-13 15:05:53 (CST)
-# Last Update: Tuesday 2019-09-24 11:23:46 (CST)
-#          By:
-# Description:
-# ********************************************************************************
 import re
 from functools import wraps
 
