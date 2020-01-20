@@ -1,17 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# ********************************************************************************
-# Copyright © 2019 jianglin
-# File Name: shell.py
-# Author: jianglin
-# Email: mail@honmaple.com
-# Created: 2019-07-09 18:39:51 (CST)
-# Last Update: Tuesday 2019-07-09 20:20:13 (CST)
-#          By:
-# Description:
-# ********************************************************************************
-
-
 class TablePrint(object):
     def __init__(self, data, header=None):
         self.data = data
