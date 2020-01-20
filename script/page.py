@@ -157,8 +157,6 @@ def markdown_to_db(path):
 
 
 def main():
-    articles = org_to_db("/home/jianglin/git/pelican/content/org")
-    articles1 = markdown_to_db("/home/jianglin/git/pelican/content/markdown")
 
     articles.extend(articles1)
 
