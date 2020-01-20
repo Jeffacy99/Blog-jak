@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# ********************************************************************************
-# Copyright © 2019 jianglin
-# File Name: assertion.py
-# Author: jianglin
-# Email: mail@honmaple.com
-# Created: 2019-08-17 00:48:47 (CST)
-# Last Update: Tuesday 2019-09-24 11:19:53 (CST)
-#          By:
-# Description:
-# ********************************************************************************
 from maple.assertion import Assert
 
 
