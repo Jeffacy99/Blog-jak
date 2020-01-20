@@ -57,33 +57,5 @@ def init_admin(admin):
         ArticleView(
             Article,
             db.session,
-            name='管理文章',
-            category='管理博客',
+        
         ))
-    admin.add_view(
-        CategoryView(
-            Category,
-            db.session,
-            name='管理分类',
-            category='管理博客',
-        ))
-    admin.add_view(TagView(
-        Tag,
-        db.session,
-        name='管理标签',
-        category='管理博客',
-    ))
-    admin.add_view(
-        CommentView(
-            Comment,
-            db.session,
-            name='管理回复',
-            category='管理博客',
-        ))
-    admin.add_view(
-        TimeLineView(
-            TimeLine,
-            db.session,
-            name='管理时间轴',
-            endpoint='admin_timeline',
-            category='管理博客'))
