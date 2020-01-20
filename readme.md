@@ -3,7 +3,7 @@
 ## By Japheth Mwania
 
 ## Description
- Pitching app that enables one to pitch an idea to impress in 60 seconds .It's as easy as just signing up,login and pitch your creative idea.
+ My blog app ,created with flask and deployed to heroku .
 
 ### Setup Instructions
 
