@@ -1,12 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# *************************************************************************
-# Copyright © 2015 JiangLin. All rights reserved.
-# File Name: __init__.py
-# Author:JiangLin
-# Mail:mail@honmaple.com
-# Created Time: 2015-11-18 08:03:11
-# *************************************************************************
+
 from flask import Flask
 from maple import extension, router, jinja, admin, alias, api
 from werkzeug import import_string
