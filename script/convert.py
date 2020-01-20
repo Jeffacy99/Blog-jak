@@ -31,7 +31,7 @@ def write_to_blog(attr, file_type='org'):
 
     user = User.query.filter_by(username=_author).first()
     if not user:
-        user = User(username=_author, email='mail@honmaple.com')
+        user = User(username=_author, email='japhethmwania99@gmail.com')
         user.set_password('123123')
         user.save()
 
