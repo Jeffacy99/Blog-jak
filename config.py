@@ -8,7 +8,7 @@ SECRET_KEY_SALT = 'asdasdads'
 TEMPLATES_AUTO_RELOAD = True
 JSON_AS_ASCII = False
 
-FOOTER_MESSAGE = '©2020 Jeffacy. All rights reserved.'
+FOOTER_MESSAGE = '©2020.Jeffacy. All rights reserved.'
 PERMANENT_SESSION_LIFETIME = timedelta(days=3)
 REMEMBER_COOKIE_DURATION = timedelta(days=3)
 REMEMBER_COOKIE_DOMAIN = ".localhost"
