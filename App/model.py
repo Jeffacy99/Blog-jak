@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# **************************************************************************
-# Copyright © 2017 jianglin
-# File Name: model.py
-# Author: jianglin
-# Email: mail@honmaple.com
-# Created: 2017-08-24 15:13:33 (CST)
-# Last Update: Monday 2019-07-01 20:00:58 (CST)
-#          By:
-# Description:
-# **************************************************************************
 from flask_maple.auth.models import GroupMixin, UserMixin
 from flask_maple.models.permission import PermissionMixin
 from maple.extension import db
