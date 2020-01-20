@@ -93,9 +93,4 @@ def md_to_blog():
     pass
 
 
-page_path = '/home/jianglin/git/pelican/content'
-
-org_files = os.listdir('/home/jianglin/git/pelican/content/org')
-orgs = [org_to_blog(i) for i in org_files]
-
 print(orgs)
