@@ -1,15 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# ********************************************************************************
-# Copyright © 2019 jianglin
-# File Name: jinja.py
-# Author: jianglin
-# Email: mail@honmaple.com
-# Created: 2019-05-24 22:47:50 (CST)
-# Last Update: Friday 2019-05-24 23:36:14 (CST)
-#          By:
-# Description:
-# ********************************************************************************
+
 from sqlalchemy import func
 from maple.extension import db
 from .db import Category, Article, Tag

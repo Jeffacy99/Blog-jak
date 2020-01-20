@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# ********************************************************************************
-# Copyright © 2019 jianglin
-# File Name: __init__.py
-# Author: jianglin
-# Email: mail@honmaple.com
-# Created: 2019-05-24 18:38:04 (CST)
-# Last Update: Tuesday 2019-05-28 23:07:05 (CST)
-#          By:
-# Description:
-# ********************************************************************************
 from flask import Blueprint
 
 from . import api, config, jinja
