@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# ********************************************************************************
-# Copyright © 2019 jianglin
-# File Name: db.py
-# Author: jianglin
-# Email: mail@honmaple.com
-# Created: 2019-05-24 18:38:14 (CST)
-# Last Update: Monday 2019-09-09 00:44:34 (CST)
-#          By:
-# Description:
-# ********************************************************************************
 from flask import current_app
 from flask_babel import format_datetime
 from flask_maple.models import ModelMixin, ModelUserMixin
